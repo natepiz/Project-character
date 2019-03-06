@@ -1,0 +1,7 @@
+.container{
+    text-align:center;
+    background:url("https://cdn1.vectorstock.com/i/1000x1000/26/40/red-curtain-vector-392640.jpg");
+    background-size:100%;
+    min-height:100vh;
+    overflow:hidden;
+}
